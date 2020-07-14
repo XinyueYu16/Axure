@@ -1,12 +1,12 @@
 # Day 1 第一次接触Axure
 
 ## 作品
-
+![Image1](https://github.com/XinyueYu16/Axure/blob/master/%E7%BD%91%E6%98%93%E4%BA%91%E8%AF%BE%E5%A0%82%E9%A2%84%E4%B9%A0%E8%AF%BE/Day%201%20%E7%BE%A4%E5%A4%B4%E5%83%8F%E8%AE%BE%E7%BD%AE.png)
 
 ## 学习记录：
 
-学习的课程内容是Axure使用方法，老师模拟了群设置中群公告交互页面设计。我稍微变化了一下，模仿的是Wechat头像页面设置。
-
+本次学习的课程内容是Axure使用方法，老师模拟了群设置中群公告交互页面设计。我稍微变化了一下，模仿的是Wechat头像页面设置。
+![Image2](https://github.com/XinyueYu16/Axure/blob/master/%E7%BD%91%E6%98%93%E4%BA%91%E8%AF%BE%E5%A0%82%E9%A2%84%E4%B9%A0%E8%AF%BE/Day%201%20%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95.png)
 
 由于是预习课，也没有答疑，所以除了Axure的使用方法外，我随意记录一下学习过程中的思考：
 
